@@ -29,3 +29,6 @@ def lambda_handler(event, context):
     
     #   after -url
     # ?transactionId=14&type=PURCHASE&amount=800
+
+    
+    https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnJPT0ZGUklPTEFrazFoTGUyZ2dhY3EyRVltUXxBQ3Jtc0tuOFB6Skc3ZWxEWVZOamVBaEg0STlXdm9oNExta1JXZWhsdjRpRTZJRVRGLWJXcUZ4V0xhVF9sNjk4aGN3cGtaanFmb3ZzYklnUGpSMHVreE95ajFPQXZrUk9pdGdMd0pWd1ZacEZGUVhJeHJJcTJaaw&q=https%3A%2F%2Fdocs.aws.amazon.com%2FAmazonS3%2Flatest%2Fuserguide%2Fways-to-add-notification-config-to-bucket.html&v=S7SFw8mMMTM
